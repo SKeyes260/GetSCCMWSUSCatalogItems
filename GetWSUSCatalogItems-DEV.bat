@@ -1,0 +1,1 @@
+powershell.exe "%~DP0GetWSUSCatalogItems.ps1" -SiteServer GISSSCCMDEV2 -SiteCode T00   > "%~DP0 GetWSUSCatalogItems-DEV.txt"

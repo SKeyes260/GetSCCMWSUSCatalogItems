@@ -1,0 +1,288 @@
+CatID	ParentCatID	CatType	CatName	IsSubscribed	LocaleID
+251	37	ProductFamily	Active Directory	False	9
+252	251	Product	Active Directory Rights Management Services Client 2.0	False	9
+38	37	ProductFamily	Antigen	False	9
+72	38	Product	Antigen for Exchange/SMTP	False	9
+253	37	ProductFamily	ASP.NET Web and Data Frameworks	False	9
+254	253	Product	ASP.NET Web Frameworks	True	9
+39	37	ProductFamily	Bing	False	9
+73	39	Product	Bing Bar	False	9
+145	39	Product	Search Enhancement Pack	False	9
+173	39	Product	Windows Live	False	9
+40	37	ProductFamily	BizTalk Server	False	9
+74	40	Product	BizTalk Server 2002	False	9
+75	40	Product	BizTalk Server 2006R2	False	9
+76	40	Product	BizTalk Server 2009	False	9
+255	40	Product	BizTalk Server 2013	False	9
+104	40	Product	Host Integration Server 2000	False	9
+105	40	Product	Host Integration Server 2004	False	9
+106	40	Product	Host Integration Server 2006	False	9
+107	40	Product	Host Integration Server 2009	False	9
+108	40	Product	Host Integration Server 2010	False	9
+41	37	ProductFamily	Developer Tools, Runtimes, and Redistributables	False	9
+137	41	Product	Report Viewer 2005	True	9
+138	41	Product	Report Viewer 2008	True	9
+139	41	Product	Report Viewer 2010	True	9
+320	41	Product	Visual C++ Redist for Visual Studio 2012	True	9
+154	41	Product	Visual Studio 2005	True	9
+155	41	Product	Visual Studio 2008	True	9
+157	41	Product	Visual Studio 2010	True	9
+156	41	Product	Visual Studio 2010 Tools for Office Runtime	True	9
+321	41	Product	Visual Studio 2010 Tools for Office Runtime	True	9
+322	41	Product	Visual Studio 2012	True	9
+323	41	Product	Visual Studio 2013	True	9
+256	37	ProductFamily	Device Health	False	9
+257	256	Product	Device Health	False	9
+42	37	ProductFamily	Exchange	False	9
+83	42	Product	Exchange 2000 Server	True	9
+84	42	Product	Exchange Server 2003	True	9
+86	42	Product	Exchange Server 2007	True	9
+85	42	Product	Exchange Server 2007 and Above Anti-spam	True	9
+87	42	Product	Exchange Server 2010	True	9
+258	42	Product	Exchange Server 2013	True	9
+259	42	Product	Exchange Server 2016	True	9
+43	37	ProductFamily	Expression	False	9
+260	43	Product	Expression Design 1	False	9
+261	43	Product	Expression Design 2	False	9
+262	43	Product	Expression Design 3	False	9
+263	43	Product	Expression Design 4	False	9
+88	43	Product	Expression Media 2	False	9
+89	43	Product	Expression Media V1	False	9
+90	43	Product	Expression Web 3	False	9
+91	43	Product	Expression Web 4	False	9
+44	37	ProductFamily	Forefront	False	9
+93	44	Product	Forefront Client Security	False	9
+94	44	Product	Forefront Endpoint Protection 2010	False	9
+265	44	Product	Forefront Identity Manager 2010	False	9
+264	44	Product	Forefront Identity Manager 2010 R2	False	9
+95	44	Product	Forefront Protection Category	False	9
+96	44	Product	Forefront Server Security Category	False	9
+99	44	Product	Forefront Threat Management Gateway, Definition Updates for HTTP Malware Inspection	False	9
+98	44	Product	Forefront TMG	False	9
+97	44	Product	Forefront TMG MBE	False	9
+151	44	Product	Threat Management Gateway Definition Updates for Network Inspection System	False	9
+150	44	Product	TMG Firewall Client	False	9
+45	37	ProductFamily	HPC Pack	False	9
+79	45	Product	Compute Cluster Pack	False	9
+101	45	Product	HPC Pack 2008	False	9
+46	37	ProductFamily	Internet Security and Acceleration Server	False	9
+92	46	Product	Firewall Client for ISA Server	False	9
+109	46	Product	Internet Security and Acceleration Server 2004	False	9
+110	46	Product	Internet Security and Acceleration Server 2006	False	9
+268	37	ProductFamily	Microsoft Advanced Threat Analytics	False	9
+269	268	Product	Microsoft Advanced Threat Analytics	False	9
+47	37	ProductFamily	Microsoft Application Virtualization	False	9
+113	47	Product	Microsoft Application Virtualization 4.5	True	9
+114	47	Product	Microsoft Application Virtualization 4.6	True	9
+270	47	Product	Microsoft Application Virtualization 5.0	True	9
+273	37	ProductFamily	Microsoft Azure	False	9
+274	273	Product	Microsoft Azure Site Recovery Provider	False	9
+297	273	Product	Service Bus for Windows Server 1.1	False	9
+271	37	ProductFamily	Microsoft Azure Information Protection	False	9
+272	271	Product	Microsoft Azure Information Protection Client	False	9
+275	37	ProductFamily	Microsoft BitLocker Administration and Monitoring	False	9
+276	275	Product	Microsoft BitLocker Administration and Monitoring v1	True	9
+48	37	ProductFamily	Microsoft Codename Max	False	9
+112	48	Product	Max	False	9
+49	37	ProductFamily	Microsoft Dynamics CRM	False	9
+116	49	Product	Microsoft Dynamics CRM 2011	False	9
+115	49	Product	Microsoft Dynamics CRM 2011 SHS	False	9
+277	49	Product	Microsoft Dynamics CRM 2013	False	9
+278	49	Product	Microsoft Dynamics CRM 2015	False	9
+280	49	Product	Microsoft Dynamics CRM 2016	False	9
+279	49	Product	Microsoft Dynamics CRM 2016 SHS	False	9
+50	37	ProductFamily	Microsoft HealthVault	False	9
+103	50	Product	HealthVault Connection Center	False	9
+102	50	Product	HealthVault Connection Center Upgrades	False	9
+51	37	ProductFamily	Microsoft Lync Server and Microsoft Lync	False	9
+117	51	Product	Microsoft Lync 2010	True	9
+118	51	Product	Microsoft Lync Server 2010	True	9
+281	51	Product	Microsoft Lync Server 2013	True	9
+282	37	ProductFamily	Microsoft Monitoring Agent (MMA)	False	9
+283	282	Product	Microsoft Monitoring Agent	False	9
+284	37	ProductFamily	Microsoft Online Services	False	9
+285	284	Product	Microsoft Online Services Sign-In Assistant	False	9
+52	37	ProductFamily	Microsoft Research AutoCollage	False	9
+119	52	Product	Microsoft Research AutoCollage 2008	False	9
+53	37	ProductFamily	Microsoft Security Essentials	False	9
+111	53	Product	MS Security Essentials	False	9
+146	53	Product	Security Essentials	False	9
+286	37	ProductFamily	Microsoft SQL Server PowerPivot for Excel	False	9
+287	286	Product	Microsoft SQL Server 2008 R2 - PowerPivot for Microsoft Excel 2010	False	9
+54	37	ProductFamily	Microsoft StreamInsight	False	9
+120	54	Product	Microsoft StreamInsight V1.0	False	9
+55	37	ProductFamily	Microsoft System Center Data Protection Manager	False	9
+80	55	Product	Data Protection Manager 2006	False	9
+121	55	Product	Microsoft System Center DPM 2010	False	9
+56	37	ProductFamily	Network Monitor	False	9
+126	56	Product	Network Monitor 3	False	9
+58	37	ProductFamily	Office	False	9
+81	58	Product	Dictionary Updates for Microsoft IMEs	False	9
+127	58	Product	New Dictionaries for Microsoft IMEs	False	9
+128	58	Product	Office 2002/XP	True	9
+129	58	Product	Office 2003	True	9
+130	58	Product	Office 2007	True	9
+131	58	Product	Office 2010	True	9
+291	58	Product	Office 2013	True	9
+292	58	Product	Office 2016	False	9
+293	58	Product	Office 365 Client	False	9
+57	37	ProductFamily	Office Communications Server And Office Communicator	False	9
+133	57	Product	Office Communications Server 2007	False	9
+132	57	Product	Office Communications Server 2007 R2	False	9
+134	57	Product	Office Communicator 2007 R2	False	9
+294	37	ProductFamily	Office Live	False	9
+295	294	Product	Office Live Add-in	False	9
+59	37	ProductFamily	SDK Components	False	9
+77	59	Product	CAPICOM	True	9
+61	37	ProductFamily	Silverlight	False	9
+147	61	Product	Silverlight	True	9
+301	37	ProductFamily	Skype	False	9
+302	301	Product	Skype for Windows	True	9
+298	37	ProductFamily	Skype for Business	False	9
+300	298	Product	Skype for Business Server 2015	True	9
+299	298	Product	Skype for Business Server 2015, SmartSetup	True	9
+60	37	ProductFamily	SQL Server	False	9
+288	60	Product	Microsoft SQL Server 2012	True	9
+289	60	Product	Microsoft SQL Server 2014	True	9
+290	60	Product	Microsoft SQL Server 2016	True	9
+140	60	Product	SQL Server 2000	True	9
+141	60	Product	SQL Server 2005	True	9
+143	60	Product	SQL Server 2008	True	9
+142	60	Product	SQL Server 2008 R2	True	9
+303	60	Product	SQL Server 2012 Product Updates for Setup	False	9
+304	60	Product	SQL Server 2014-2016 Product Updates for Setup	False	9
+144	60	Product	SQL Server Feature Pack	True	9
+305	37	ProductFamily	System Center	False	9
+306	305	Product	System Center 2012 - App Controller	False	9
+307	305	Product	System Center 2012 - Data Protection Manager	False	9
+308	305	Product	System Center 2012 - Operations Manager	False	9
+309	305	Product	System Center 2012 - Orchestrator	False	9
+310	305	Product	System Center 2012 - Virtual Machine Manager	False	9
+311	305	Product	System Center 2012 R2 - Data Protection Manager	False	9
+312	305	Product	System Center 2012 R2 - Operations Manager	True	9
+313	305	Product	System Center 2012 R2 - Orchestrator	True	9
+314	305	Product	System Center 2012 R2 - Virtual Machine Manager	True	9
+315	305	Product	System Center 2012 SP1 - App Controller	False	9
+316	305	Product	System Center 2012 SP1 - Data Protection Manager	False	9
+317	305	Product	System Center 2012 SP1 - Operation Manager	False	9
+318	305	Product	System Center 2012 SP1 - Virtual Machine Manager	False	9
+407	305	Product	System Center 2016 - Data Protection Manager	False	9
+408	305	Product	System Center 2016 - Operations Manager	False	9
+406	305	Product	System Center 2016 - Orchestrator	False	9
+405	305	Product	System Center 2016 - Virtual Machine Manager	False	9
+319	305	Product	System Center Advisor	False	9
+62	37	ProductFamily	System Center Online	False	9
+78	62	Product	Category for System Center Online Client	False	9
+63	37	ProductFamily	System Center Virtual Machine Manager	False	9
+122	63	Product	Microsoft System Center Virtual Machine Manager 2007	False	9
+123	63	Product	Microsoft System Center Virtual Machine Manager 2008	False	9
+64	37	ProductFamily	Systems Management Server	False	9
+148	64	Product	System Center Configuration Manager 2007	False	9
+149	64	Product	Systems Management Server 2003	False	9
+65	37	ProductFamily	Virtual Server	False	9
+152	65	Product	Virtual PC	False	9
+153	65	Product	Virtual Server	False	9
+70	37	ProductFamily	Windows	False	9
+296	70	Product	OOBE ZDP	False	9
+333	70	Product	Windows 10	True	9
+324	70	Product	Windows 10 and later drivers	False	9
+325	70	Product	Windows 10 and later upgrade & servicing drivers	False	9
+402	70	Product	Windows 10 Anniversary Update and Later Servicing Drivers	False	9
+409	70	Product	Windows 10 Anniversary Update Server and Later Servicing Drivers	False	9
+326	70	Product	Windows 10 Dynamic Update	False	9
+327	70	Product	Windows 10 Feature On Demand	True	9
+329	70	Product	Windows 10 GDR-DU	False	9
+328	70	Product	Windows 10 GDR-DU LP	False	9
+330	70	Product	Windows 10 Language Interface Packs	False	9
+331	70	Product	Windows 10 Language Packs	True	9
+332	70	Product	Windows 10 LTSB	True	9
+158	70	Product	Windows 2000	False	9
+160	70	Product	Windows 7	True	9
+161	70	Product	Windows 8	True	9
+334	70	Product	Windows 8 Dynamic Update	False	9
+335	70	Product	Windows 8 Embedded	False	9
+336	70	Product	Windows 8 Language Interface Packs	False	9
+337	70	Product	Windows 8 Language Packs	True	9
+343	70	Product	Windows 8.1	True	9
+338	70	Product	Windows 8.1 and later drivers	False	9
+339	70	Product	Windows 8.1 Drivers	False	9
+340	70	Product	Windows 8.1 Dynamic Update	False	9
+341	70	Product	Windows 8.1 Language Interface Packs	False	9
+342	70	Product	Windows 8.1 Language Packs	True	9
+163	70	Product	Windows Defender	True	9
+362	70	Product	Windows Dictionary Updates	False	9
+165	70	Product	Windows Embedded Standard 7	False	9
+363	70	Product	Windows GDR-Dynamic Update	False	9
+169	70	Product	Windows Internet Explorer 7 Dynamic Installer	True	9
+170	70	Product	Windows Internet Explorer 8 Dynamic Installer	True	9
+174	70	Product	Windows Media Dynamic Installer	False	9
+364	70	Product	Windows Next Graphics Driver Dynamic update	False	9
+369	70	Product	Windows RT	False	9
+367	70	Product	Windows RT 8.1	False	9
+365	70	Product	Windows RT 8.1 and later drivers	False	9
+366	70	Product	Windows RT 8.1 Drivers	False	9
+368	70	Product	Windows RT Drivers	False	9
+176	70	Product	Windows Server 2003	True	9
+175	70	Product	Windows Server 2003, Datacenter Edition	True	9
+179	70	Product	Windows Server 2008	True	9
+177	70	Product	Windows Server 2008 R2	True	9
+178	70	Product	Windows Server 2008 Server Manager Dynamic Installer	True	9
+162	70	Product	Windows Server 2012	True	9
+370	70	Product	Windows Server 2012 Language Packs	True	9
+373	70	Product	Windows Server 2012 R2	True	9
+371	70	Product	Windows Server 2012 R2  and later drivers	False	9
+372	70	Product	Windows Server 2012 R2 Language Packs	True	9
+374	70	Product	Windows Server 2016	True	9
+375	70	Product	Windows Server Drivers	False	9
+180	70	Product	Windows Server Manager - Windows Server Update Services (WSUS) Dynamic Installer	True	9
+377	70	Product	Windows Server Technical Preview Language Packs	False	9
+185	70	Product	Windows Ultimate Extras	False	9
+188	70	Product	Windows Vista	True	9
+186	70	Product	Windows Vista Dynamic Installer	True	9
+187	70	Product	Windows Vista Ultimate Language Packs	False	9
+191	70	Product	Windows XP	False	9
+189	70	Product	Windows XP 64-Bit Edition Version 2003	False	9
+378	70	Product	Windows XP Embedded	False	9
+190	70	Product	Windows XP x64 Edition	False	9
+345	37	ProductFamily	Windows Azure Pack	False	9
+346	345	Product	Windows Azure Pack: Admin API	False	9
+347	345	Product	Windows Azure Pack: Admin Authentication Site	False	9
+348	345	Product	Windows Azure Pack: Admin Site	False	9
+349	345	Product	Windows Azure Pack: Configuration Site	False	9
+350	345	Product	Windows Azure Pack: Microsoft Best Practice Analyzer	False	9
+351	345	Product	Windows Azure Pack: Monitoring Extension	False	9
+352	345	Product	Windows Azure Pack: MySQL Extension	False	9
+353	345	Product	Windows Azure Pack: PowerShell API	False	9
+354	345	Product	Windows Azure Pack: SQL Server Extension	False	9
+355	345	Product	Windows Azure Pack: Tenant API	False	9
+356	345	Product	Windows Azure Pack: Tenant Authentication Site	False	9
+357	345	Product	Windows Azure Pack: Tenant Public API	False	9
+358	345	Product	Windows Azure Pack: Tenant Site	False	9
+359	345	Product	Windows Azure Pack: Usage Extension	False	9
+360	345	Product	Windows Azure Pack: Web App Gallery Extension	False	9
+344	37	ProductFamily	Windows Azure Pack - Web Sites	False	9
+361	344	Product	Windows Azure Pack: Web Sites	False	9
+66	37	ProductFamily	Windows Embedded	False	9
+164	66	Product	Windows Embedded Developer Update	False	9
+67	37	ProductFamily	Windows Essential Business Server	False	9
+167	67	Product	Windows Essential Business Server 2008	False	9
+166	67	Product	Windows Essential Business Server 2008 Setup Updates	False	9
+168	67	Product	Windows Essential Business Server Preinstallation Tools	False	9
+68	37	ProductFamily	Windows Live	False	9
+135	68	Product	OneCare Family Safety Installation	False	9
+136	68	Product	Photo Gallery Installation and Upgrades	False	9
+172	68	Product	Windows Live	False	9
+171	68	Product	Windows Live Toolbar	False	9
+193	68	Product	Writer Installation and Upgrades	False	9
+410	37	ProductFamily	Windows Phone	False	9
+411	410	Product	Windows Mobile 10 PREV PPE	False	9
+69	37	ProductFamily	Windows Small Business Server	False	9
+376	69	Product	Windows Server Solutions Best Practices Analyzer 1.0	False	9
+181	69	Product	Windows Small Business Server 2003	False	9
+183	69	Product	Windows Small Business Server 2008	False	9
+182	69	Product	Windows Small Business Server 2008 Migration Preparation Tool	False	9
+184	69	Product	Windows Small Business Server 2011 Standard	False	9
+71	37	ProductFamily	Works	False	9
+124	71	Product	Microsoft Works 8	False	9
+125	71	Product	Microsoft Works 9	False	9
+192	71	Product	Works 6-9 Converter	False	9

@@ -1,0 +1,1 @@
+powershell.exe "%~DP0GetWSUSCatalogItems.ps1" -SiteServer XSPW10W200P -SiteCode P00   > "%~DP0 GetWSUSCatalogItems-PROD.txt"

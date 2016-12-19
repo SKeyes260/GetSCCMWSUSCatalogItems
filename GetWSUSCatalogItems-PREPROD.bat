@@ -1,0 +1,1 @@
+powershell.exe "%~DP0GetWSUSCatalogItems.ps1" -SiteServer XSNW10W142C -SiteCode PP0  > "%~DP0 GetWSUSCatalogItems-PREPROD.txt"
